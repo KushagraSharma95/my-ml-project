@@ -1,9 +1,3 @@
----
-
-title: "Numerai Stock Prediction" summary: "Numerai Stock Prediction Problem Description and Business Context Numerai is a unique crowdsourced hedge fund that runs a weekly data science tournament for stock market prediction." date: 2025-01-03 tags: [machine learning, portfolio]
-
----
-
 # Numerai Stock Prediction
 
 ## Abstract
