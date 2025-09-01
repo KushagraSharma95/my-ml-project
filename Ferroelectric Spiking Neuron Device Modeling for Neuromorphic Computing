@@ -2,7 +2,6 @@
 **Author:** Kushagra Sharma  
 **Date:** 2025-09-01  
 **Status:** Working paper (GitHub preprint)  
-**Repository URL:** https://github.com/kushagrasharma/ferroelectric-neuron
 
 ## Abstract
 Ferroelectric field‑effect transistors (FeFETs) offer non‑volatile polarization dynamics that can emulate neuronal “integrate‑and‑fire” behavior. This paper outlines compact modeling approaches for FeFET‑based spiking neurons, focusing on capture of threshold behavior, spike timing, variability, and retention. We summarize device‑to‑network co‑design principles and provide a reproducible codebase for benchmarking spiking neuron models without claiming new hardware results.
