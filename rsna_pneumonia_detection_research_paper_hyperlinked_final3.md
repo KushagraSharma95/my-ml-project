@@ -1,8 +1,4 @@
----
 
-title: "RSNA Pneumonia Detection" summary: "RSNA Pneumonia Detection Problem Description and Business Context Pneumonia is a serious lung infection and one of the leading causes of death worldwide." date: 2025-03-06 tags: [machine learning, portfolio]
-
----
 
 # RSNA Pneumonia Detection
 
