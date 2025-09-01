@@ -1,8 +1,7 @@
 # Data-Driven Design of Polymer Dielectrics for Energy-Efficient Electronics
 **Author:** Kushagra Sharma  
-**Date:** 2025-09-01  
+**Date:** 2025-03-14  
 **Status:** Working paper (GitHub preprint)  
-**Repository URL:** https://github.com/kushagrasharma/polymer-dielectric-ML
 
 ## Abstract
 Polymer dielectrics are central to energy storage and insulation in modern electronics. Yet common materials (e.g., BOPP) struggle to combine high energy density with thermal robustness, limiting use in harsh environments. This working paper outlines an informatics workflow—data assembly, representation, supervised learning, and inverse design—to accelerate the discovery of polymer dielectrics that sustain high energy density at high temperature. The paper also describes an open, reproducible repository structure to support future experiments and comparisons.
