@@ -1,8 +1,4 @@
----
 
-title: "EPL Match Outcome Prediction" summary: "EPL Match Outcome Prediction (StatsBomb Dataset) Problem Description and Business Context" date: 2024-05-16 tags: [machine learning, portfolio]
-
----
 
 # EPL Match Outcome Prediction
 
