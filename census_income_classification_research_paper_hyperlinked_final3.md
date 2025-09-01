@@ -1,9 +1,3 @@
----
-
-title: "Census Income Classification" summary: "Census Income Classification Problem Description and Business Context" date: 2024-12-12 tags: [machine learning, portfolio]
-
----
-
 # Census Income Classification
 
 ## Abstract
