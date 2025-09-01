@@ -36,18 +36,5 @@ Binary classification using the UCI Adult dataset to predict whether an individu
 
 Open any of the `.md` files in a Markdown viewer (VSCode, GitHub preview, Obsidian, etc.) to read the full write-up. You can also use this README to navigate to the individual documents if rendered in a Markdown-aware environment.
 
-## Next Steps (Suggestions)
-
-- Standardize each paper into a shared template (e.g., consistent “Abstract”, “Introduction”, “Methods”, “Results”, “Conclusion” sections).
-- Generate HTML or slide versions for portfolio/blog publication.
-- Auto-generate summary cards or badges for each project (e.g., key metrics, tech stack).
-- Extract key code snippets and notebooks to accompany each write-up.
-- Publish as a personal portfolio with clean routing for each project.
-
-## Attribution & Licensing
-
-Unless otherwise specified, content is authored for portfolio purposes. You can apply a permissive license like MIT if you plan to share or publish.  
 
 ---
-
-*Generated and formatted collaboratively.*
