@@ -1,8 +1,8 @@
 # GPT‑MatSci: Using Large Language Models to Extract Materials Science Insights
 **Author:** Kushagra Sharma  
-**Date:** 2025-09-01  
+**Date:** 2025-06-01  
 **Status:** Working paper (GitHub preprint)  
-**Repository URL:** https://github.com/kushagrasharma/LLM-materials-knowledge
+
 
 ## Abstract
 Materials research produces immense unstructured text—papers, reports, and patents—with critical facts about compositions, processing, and device performance. This working paper presents an open pipeline that uses large language models (LLMs) to (i) extract structured records from literature, (ii) build task‑specific knowledge graphs, and (iii) support downstream analysis and prediction. We emphasize transparent prompts, evaluation against annotated subsets, and careful human‑in‑the‑loop validation.
