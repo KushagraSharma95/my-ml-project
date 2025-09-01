@@ -1,8 +1,4 @@
----
 
-title: "Santander Customer Value Prediction" summary: "Santander Customer Value Prediction Problem Description and Business Context Banks like Santander collect extensive customer data and seek to leverage it for personalized services." date: 2025-06-10 tags: [machine learning, portfolio]
-
----
 
 # Santander Customer Value Prediction
 
