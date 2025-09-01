@@ -1,6 +1,6 @@
 # Machine Learning Project Portfolio
 
-This repository contains five cleaned and formatted machine learning research-style write-ups. Each paper has been restructured for readability, with short paragraphs, consistent headings, and hyperlinked references at the end.
+Academic WriteUps
 
 ## Contents
 
