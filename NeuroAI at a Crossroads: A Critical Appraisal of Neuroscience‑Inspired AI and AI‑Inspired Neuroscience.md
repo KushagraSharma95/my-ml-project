@@ -157,7 +157,7 @@ NeuroAI’s value lies not in mimicking every biological detail, nor in ignoring
 ---
 
 ## Selected References (non‑exhaustive, for orientation)
-*Note: The paper above is original prose. The following works are suggested starting points for the interested reader; exact editions and venues vary.*
+
 
 - Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M. “Neuroscience‑Inspired Artificial Intelligence.” *Neuron* (2017).
 - Yamins, D. L. K., & DiCarlo, J. J. “Using goal‑driven deep learning models to understand sensory cortex.” *Nature Neuroscience* (2016).
